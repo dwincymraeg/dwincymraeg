@@ -40,10 +40,19 @@ Radio is a huge part of my life. It's not just about the gear; it's about connec
 
 ---
 
-## 🚴 Outside the Code
+## 🚴 Outside the Code & Adventures
 When the screen is off, I'm:
 1.  **Biking:** Exploring the local Welsh hills and valleys.
 2.  **Quad Biking:** Finding the muddiest path possible.
+
+### 📸 Gallery
+<p align="center">
+  <img src="1.jpg" width="18%" alt="Adventure 1" />
+  <img src="2.jpg" width="18%" alt="Adventure 2" />
+  <img src="3.jpg" width="18%" alt="Adventure 3" />
+  <img src="4.jpg" width="18%" alt="Adventure 4" />
+  <img src="5.jpg" width="18%" alt="Adventure 5" />
+</p>
 
 ---
 
